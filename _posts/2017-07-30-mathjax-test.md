@@ -1,18 +1,12 @@
 ---
 layout: post
-title: MathJax Test
+title: 刷题记录
 date: 2017-07-30
 categories: test
-tags: mathjax 
+tags: 算法基础
 ---
 
-mathjax in markdown :)
 
-**这是一个不`align`的公式**：
-
-$$
-\forall \alpha \in A, \quad a \cdot b = 0
-$$
 
 **这是一个`align`的公式**：
 
