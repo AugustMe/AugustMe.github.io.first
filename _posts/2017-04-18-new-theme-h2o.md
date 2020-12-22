@@ -44,15 +44,7 @@ tags: 目标检测
 
 ![](http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-headerpatterns.jpg)
 
-### 代码高亮
 
-模板引入了[Prism.js](http://prismjs.com)，一款轻量、可扩展的代码语法高亮库。
-
-很多知名网站如[MDN](https://developer.mozilla.org/)、[css-tricks](https://css-tricks.com/)也在用它，JavaScript 之父 [Brendan Eich](https://brendaneich.com/) 也在个人博客上使用。
-
-![代码高亮](http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-highlight.png)
-
-遵循 [HTML5](https://www.w3.org/TR/html5/grouping-content.html#the-pre-element) 标准，Prism 使用语义化的 `<pre>` 元素和 `<code>` 元素来标记代码区块：
 
 ```
 <pre><code class="language-css">p { color: red }</code></pre>
