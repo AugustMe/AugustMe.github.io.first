@@ -1,4 +1,6 @@
-## jekyll-theme-H2O
+## 该项目用于搭建我的个人博客
+
+该项目下载于 [https://github.com/kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O)
 
 基于Jekyll的博客主题模板，简洁轻量。
 
